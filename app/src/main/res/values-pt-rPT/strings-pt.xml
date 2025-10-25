@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Início</string>
+    <string name="about">Sobre</string>
+    <string name="catalog">Catálogo</string>
+    <string name="contact">Contato</string>
+
+    <string name="t_carrosel1">Massagens Terapêuticas</string>
+    <string name="t_carrosel2">Velas Artesanais</string>
+    <string name="t_carrosel3">Criações Artesanais em Jesmonite</string>
+    <string name="d_carrosel1">Relaxamento profundo para corpo e mente.</string>
+    <string name="d_carrosel2">Aroma e luz que acolhem e inspiram.</string>
+    <string name="d_carrosel3">Decoração com alma e autencicidade.</string>
+
+    <string name="average_evaluation_title">Média %1$s:</string>
+    <string name="star_rating">⭐ %.1f</string>
+    <string name="evaluation">Avaliação</string>
+
+    <string name="search">Procurar</string>
+    <string name="min_price">Preço Mínimo</string>
+    <string name="max_price">Preço Máximo</string>
+    <string name="search_button">Aplicar Filtros</string>
+
+    <string name="my_account">A minha Conta</string>
+    <string name="account_name">Nome: </string>
+    <string name="change_image">Mudar Imagem</string>
+    <string name="choose_a_new_image">Escolher uma nova imagem</string>
+    <string name="remove_image">Remover Imagem</string>
+    <string name="upload">Fazer Upload</string>
+    <string name="rate_bodybliss">Estás a gostar do BodyBliss? Deixa-nos uma avaliação!</string>
+    <string name="rate_experience">Como classificas a tua experiência?</string>
+    <string name="submit">Submeter</string>
+    <string name="not_now">Agora não</string>
+
+    <string name="reach_out">Entra em contacto connosco</string>
+    <string name="get_in">Fala connosco através de qualquer um dos canais abaixo. Estamos ansiosos por ouvir-te!</string>
+    <string name="customer_support">Apoio ao cliente</string>
+    <string name="customer_message">Se não conseguires iniciar sessão na tua conta, contacta a nossa equipa de apoio. </string>
+    <string name="customer_message2">Será criado um pedido e um membro da nossa equipa irá ajudar-te por email.</string>
+    <string name="contact_sup">Contactar apoio</string>
+    <string name="visit_us">Visita-nos!</string>
+
+    <string name="catalog_bodybliss">Catálogo Bodybliss</string>
+    <string name="explore_products">Explora produtos da categoria </string>
+    <string name="category_button">Entrar na Categoria</string>
+    <string name="products_of">Produtos da Categoria: </string>
+    <string name="add_to_cart">Adicionar ao Carrinho</string>
+
+    <string name="d_banner_about">“Promover bem-estar não é luxo — é necessidade.”</string>
+    <string name="text_about">A BODYBLISS nasceu da minha paixão por Massagens Terapêuticas e pela criação de peças artesanais únicas, como velas aromáticas e decorações em Jesmonite.&#10;&#10;O nome une &quot;BODY&quot; (corpo, pessoa) com &quot;BLISS&quot; (êxtase, felicidade), refletindo o propósito de proporcionar bem-estar, relaxamento e harmonia.&#10;&#10;Cada vela é criada com cuidado, adaptada aos gostos de quem a recebe — mais do que decoração, são presentes com alma.&#10;&#10;Seja através de uma massagem com óleos naturais ou ao acender uma vela BODYBLISS feita à tua medida, o objetivo é sempre o mesmo: ajudar-te a desacelerar e reconectar com o teu interior.&#10;&#10;Permite-te esta experiência.&#10;BODYBLISSA-TE ♥</string>
+    <string name="service_about1">🕯️ Velas Aromáticas Personalizadas</string>
+    <string name="service_about2">💆 Massagens Terapêuticas com óleos naturais</string>
+    <string name="service_about3">🎁 Presentes únicos e artesanais</string>
+    <string name="final_about">“Criei a BODYBLISS para partilhar o que me traz paz — espero que também traga a ti.”</string>
+    <string name="button_about">Explorar Catálogo</string>
+</resources>

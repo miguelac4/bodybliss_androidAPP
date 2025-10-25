@@ -1,0 +1,74 @@
+########################
+# ANDROID APP (app/)
+########################
+
+# Android Studio / IntelliJ configs
+app/.idea/
+app/*.iml
+app/.gradle/
+
+# Build outputs (APK, intermediates, etc.)
+app/build/
+app/**/build/
+*.apk
+*.aab
+*.dex
+*.class
+
+# Local machine config
+app/local.properties
+app/captures/
+
+# Keystores / signing keys
+*.jks
+*.keystore
+*.pem
+
+
+########################
+# BACKEND (bodybliss-api/)
+########################
+
+# Composer vendor (se tiveres composer mais tarde)
+bodybliss-api/vendor/
+
+# Ambiente / senhas
+bodybliss-api/.env
+bodybliss-api/*.env
+
+# Dumps / backups / ficheiros sensíveis
+backup_bodybliss.sql
+*.sql
+*.sql.gz
+*.log
+
+# Se docker-compose.yml tiver passwords e não queres publico,
+# descomenta a linha abaixo:
+# bodybliss-api/docker-compose.yml
+
+
+########################
+# GENÉRICO / SO / IDE
+########################
+
+# macOS / Windows lixo
+.DS_Store
+Thumbs.db
+
+# VSCode / JetBrains global
+*.iml
+*.iws
+*.ipr
+.idea/
+.vscode/
+
+# Gradle global
+.gradle/
+build/
+**/build/
+
+# Node (se algum dia adicionares frontend web)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

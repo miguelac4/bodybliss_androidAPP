@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="catalog">Catalog</string>
+    <string name="contact">Contact</string>
+
+    <string name="t_carrosel1">Therapeutic Massages</string>
+    <string name="t_carrosel2">Handmade Candles</string>
+    <string name="t_carrosel3">Handmade Jesmonite Creations</string>
+    <string name="d_carrosel1">Deep relaxation for body and mind.</string>
+    <string name="d_carrosel2">Aroma and light that embrace and inspire.</string>
+    <string name="d_carrosel3">Decor with soul and authenticity.</string>
+
+    <string name="average_evaluation_title">Average %1$s:</string>
+    <string name="star_rating">⭐ %.1f</string>
+    <string name="evaluation">Evaluation</string>
+
+    <string name="search">Search</string>
+    <string name="min_price">Min Price</string>
+    <string name="max_price">Max Price</string>
+    <string name="search_button">Apply Filters</string>
+
+    <string name="my_account">My Account</string>
+    <string name="account_name">Name: </string>
+    <string name="change_image">Change Image</string>
+    <string name="choose_a_new_image">Choose a new image</string>
+    <string name="remove_image">Remove Image</string>
+    <string name="upload">Upload</string>
+    <string name="rate_bodybliss">Enjoying BodyBliss? Leave a rating!</string>
+    <string name="rate_experience">How do you rate your experience?</string>
+    <string name="submit">Submit</string>
+    <string name="not_now">Not now</string>
+
+    <string name="reach_out">Reach out and say hello</string>
+    <string name="get_in">Get in touch through any of the channels below. We’re eager to hear from you!</string>
+    <string name="customer_support">Customer support</string>
+    <string name="customer_message">If you are unable to log into your account, please contact our support team. </string>
+    <string name="customer_message2">A ticket will be created and one of our support team members will assist you via email.</string>
+    <string name="contact_sup">Contact support</string>
+    <string name="visit_us">Come visit us!</string>
+
+    <string name="catalog_bodybliss">Bodybliss Catalog</string>
+    <string name="explore_products">Explore products of the category </string>
+    <string name="category_button">Entry Category</string>
+    <string name="products_of">Products of category: </string>
+    <string name="add_to_cart">Add to Cart</string>
+
+    <string name="d_banner_about">“Promoting well-being is not a luxury — it’s a necessity.”</string>
+    <string name="text_about">BODYBLISS was born from my passion for Therapeutic Massages and the creation of unique handmade pieces, like aromatic candles and Jesmonite décor.&#10;&#10;The name combines &quot;BODY&quot; (body, self) with &quot;BLISS&quot; (ecstasy, happiness), reflecting the purpose of offering well-being, relaxation, and harmony.&#10;&#10;Each candle is crafted with care and tailored to the preferences of the person receiving it — more than just decoration, they are gifts with soul.&#10;&#10;Whether through a massage with natural oils or by lighting a custom-made BODYBLISS candle, the goal is always the same: to help you slow down and reconnect with your inner self.&#10;&#10;Allow yourself this experience.&#10;BODYBLISS YOURSELF ♥</string>
+    <string name="service_about1">🕯️ Personalized Aromatic Candles</string>
+    <string name="service_about2">💆 Therapeutic Massages with Natural Oils</string>
+    <string name="service_about3">🎁 Unique and Handmade Gifts</string>
+    <string name="final_about">“I created BODYBLISS to share what brings me peace — I hope it brings you peace too.”</string>
+    <string name="button_about">Explore Catalog</string>
+</resources>
+
